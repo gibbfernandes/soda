@@ -49,5 +49,8 @@ img#insta {
   .header .social {
     margin: 0 auto;
     text-align: center;
-  }
+	}
+  .header .title {
+    font-size: 35px;
+	}
 }
