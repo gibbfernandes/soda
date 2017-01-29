@@ -44,3 +44,10 @@ img#insta {
     padding-top: 50px;
     padding-bottom: 5px;
 }
+
+@media (max-width: 767px) {
+  .header .social {
+    margin: 0 auto;
+    text-align: center;
+  }
+}
