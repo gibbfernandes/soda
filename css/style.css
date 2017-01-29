@@ -68,6 +68,12 @@ img#insta {
 	#clients h2 {
 		font-size: 30px !important;
 	}
+	#contact h2 {
+    font-size: 30px !important;
+	}
+	#contact p {
+    font-size: 18px !important;
+	}
 }
 
 div#about {
