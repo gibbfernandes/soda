@@ -87,3 +87,8 @@ div#clients {
 	background-position: center;
     padding: 50px 0;
 }
+
+#clients h2 {
+    color: white;
+    font-size: 45px;
+}
