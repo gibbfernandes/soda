@@ -140,3 +140,7 @@ button#button-align {
     background-color: #4970ff;
     border-color: #dfdfdf;
 }
+
+form#main-contact-form {
+    padding-top: 50px;
+}
