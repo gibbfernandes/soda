@@ -92,3 +92,8 @@ div#clients {
     color: white;
     font-size: 45px;
 }
+
+#clients hr {
+    width: 25%;
+    border-width: 2px;
+}
