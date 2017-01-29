@@ -97,3 +97,8 @@ div#clients {
     width: 25%;
     border-width: 2px;
 }
+
+img.img-responsive.bcb {
+    background: black;
+	margin-bottom: 10px;
+}
