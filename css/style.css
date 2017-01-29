@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 img#face {
     background-color: #37589B;
 }
