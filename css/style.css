@@ -79,3 +79,11 @@ div#about {
 #about p {
     font-size: 25px;
 }
+
+div#clients {
+    background-image: url(../images/clients_bg.jpg);
+	background-size: cover;
+	-moz-background-size: cover;
+	background-position: center;
+    padding: 50px 0;
+}
