@@ -123,3 +123,9 @@ div#contact {
     font-size: 20px;
 	padding: 25px 0;
 }
+
+input.form-control {
+    background-color: #dfdfdf;
+    border-bottom-width: 5px;
+	height: 55px;
+}
