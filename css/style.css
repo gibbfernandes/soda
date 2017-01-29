@@ -67,3 +67,7 @@ div#about {
     border-width: 10px;
 	border-color: #3784c5;
 }
+
+#about p {
+    font-size: 25px;
+}
