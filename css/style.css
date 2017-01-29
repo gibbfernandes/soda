@@ -69,10 +69,14 @@ img#insta {
 		font-size: 30px !important;
 	}
 	#contact h2 {
-    font-size: 30px !important;
+		font-size: 30px !important;
 	}
 	#contact p {
-    font-size: 18px !important;
+		font-size: 18px !important;
+	}
+	.form-horizontal .form-group {
+		margin-right: 0 !important;
+		margin-left: 0 !important;
 	}
 }
 
