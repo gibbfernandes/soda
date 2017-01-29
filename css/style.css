@@ -17,3 +17,9 @@ img#insta {
   background-position: center;
   color: #fff;
 }
+
+.header .top-bar {
+  position: relative;
+  padding-top: 15px;
+  padding-bottom: 120px;
+}
