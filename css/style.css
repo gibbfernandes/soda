@@ -9,3 +9,11 @@ img#twit {
 img#insta {
     background-color: #fb3958;
 }
+
+.header {
+  background-image: url(../images/head.jpg);
+  background-size: cover;
+  -moz-background-size: cover;
+  background-position: center;
+  color: #fff;
+}
