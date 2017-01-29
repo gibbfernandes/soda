@@ -154,3 +154,35 @@ button#button-align {
 form#main-contact-form {
     padding-top: 50px;
 }
+
+input::-webkit-input-placeholder {
+color: #65666c !important;
+}
+ 
+input:-moz-placeholder { /* Firefox 18- */
+color: #65666c !important;  
+}
+ 
+input::-moz-placeholder {  /* Firefox 19+ */
+color: #65666c !important;  
+}
+ 
+input:-ms-input-placeholder {  
+color: #65666c !important;  
+}
+
+textarea::-webkit-input-placeholder {
+color: #65666c !important;
+}
+ 
+textarea:-moz-placeholder { /* Firefox 18- */
+color: #65666c !important;  
+}
+ 
+textarea::-moz-placeholder {  /* Firefox 19+ */
+color: #65666c !important;  
+}
+ 
+textarea:-ms-input-placeholder {  
+color: #65666c !important;  
+}
