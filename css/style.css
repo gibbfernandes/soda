@@ -129,3 +129,7 @@ input.form-control {
     border-bottom-width: 5px;
 	height: 55px;
 }
+
+textarea#message {
+    border-bottom-width: 5px;
+}
