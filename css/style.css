@@ -57,6 +57,10 @@ img#insta {
   .header .title {
     font-size: 35px;
 	}
+	#about h2
+	{
+		font-size: 28px;
+	}
 }
 
 div#about {
